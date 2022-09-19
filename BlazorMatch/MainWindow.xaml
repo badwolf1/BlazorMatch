@@ -18,7 +18,6 @@
             <RowDefinition/>
             <RowDefinition/>
             <RowDefinition/>
-            <RowDefinition/>
         </Grid.RowDefinitions>
         <TextBlock Grid.Column="0" HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" Grid.Row="0" FontSize="36"/>
         <TextBlock Grid.Column="1" HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" Grid.Row="0" FontSize="36"/>
