@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorMatch", "BlazorMatch\BlazorMatch.csproj", "{D892F78F-E10A-4A9D-9010-C91CEF73BFF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchGame", "BlazorMatch\MatchGame.csproj", "{D892F78F-E10A-4A9D-9010-C91CEF73BFF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
