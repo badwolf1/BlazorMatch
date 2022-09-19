@@ -23,6 +23,7 @@ namespace BlazorMatch
         public MainWindow()
         {
             InitializeComponent();
+            //test
         }
     }
 }
